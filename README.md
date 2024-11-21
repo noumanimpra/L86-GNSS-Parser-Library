@@ -13,7 +13,7 @@
 
 ### Description
 
-<div align="center">
+<div>
     This SSTM32 L86 GNSS Parser Library is tailored specifically for Quectel L86 module. 
     <br><br>
     While the core functionality is in place, please note that the library might still lack certain features or complete documentation. 
